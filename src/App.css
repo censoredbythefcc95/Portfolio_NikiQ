@@ -6,8 +6,10 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: rgb(97, 10, 97);
+  background-color: #610a61;
   color: white;
+  width: 100%;
+  position: fixed;
 }
 
 .logo-container {
@@ -40,4 +42,15 @@
   text-decoration: bold;
   background-color: purple;
   color: white;
+}
+
+.footer-container {
+  width: 100%;
+  background-color: rgb(97, 10, 97);
+}
+
+.footer-text {
+  text-align: center;
+  color: white;
+  padding: 15px;
 }
