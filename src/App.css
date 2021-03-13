@@ -26,3 +26,18 @@
   text-decoration: none;
 }
 
+.about-container, .about-me {
+  text-align: center;
+  padding: 50px;
+}
+
+.about-me {
+  margin: 0;
+
+}
+
+.name-span {
+  text-decoration: bold;
+  background-color: purple;
+  color: white;
+}
